@@ -1,2 +1,2 @@
 #!/bin/bash
-start [iamfile.exe] /tmp/iamfile
+file /tmp/iamafile
