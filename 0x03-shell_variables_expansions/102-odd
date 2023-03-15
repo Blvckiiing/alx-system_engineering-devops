@@ -1,2 +1,2 @@
 #!/bin/bash
-i=1; while read line; do ((i++ % 2)) && echo $line; done
+perl lne 'print if $. % 2 --1'
