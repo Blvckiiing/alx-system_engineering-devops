@@ -1,2 +1,2 @@
 #!/bin/bash
-compgen -v | sort -u; compgen -A function | sort -u
+set
